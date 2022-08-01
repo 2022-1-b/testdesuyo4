@@ -6,7 +6,7 @@
 body {
 	width: 100%;
 	height: 100vh;
-	background:linear-gradient(45deg, #240107,#e04a63,#e8b0ba);/*グラデーションを定義*/
+	background:linear-gradient(45deg, #240107,#2e1217,#e8b0ba);/*グラデーションを定義*/
 	background-size: 200% 200%;/*サイズを大きくひきのばす*/
 	animation: bggradient 20s ease infinite;
 }
